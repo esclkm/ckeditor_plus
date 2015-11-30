@@ -1,0 +1,2 @@
+[05-Nov-2015 23:51:50] PHP Parse error:  syntax error, unexpected T_STRING in /home/seisimed/public_html/plugins/ckeditor_plus/inc/browser.php on line 5
+[05-Nov-2015 23:52:23] PHP Parse error:  syntax error, unexpected T_FOREACH in /home/seisimed/public_html/plugins/ckeditor_plus/inc/browser.php on line 18
